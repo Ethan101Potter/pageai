@@ -1,7 +1,4 @@
-> This website was generated with [PageAI](https://pageai.pro).
->
-> 1-shot production-ready websites with a design system and AI-powered content generation.
-> Get started on **[pageai.pro](https://pageai.pro)**.
+
 
 ===================
 
